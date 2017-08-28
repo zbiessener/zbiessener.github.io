@@ -42,6 +42,7 @@ ul{
   padding-top: 120px;
   padding-left: 75px;
   padding-right: 75px;
+  max-width: 750px;
 }
 
 #face{
