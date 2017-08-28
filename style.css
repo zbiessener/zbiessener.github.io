@@ -39,10 +39,9 @@ ul{
 #manila{
   background-image:url("manila envelope.png");
   background-size:cover;
-  padding-top: 150px;
+  padding-top: 120px;
   padding-left: 75px;
   padding-right: 75px;
-  padding-bottom: 75px;
 }
 
 #face{
