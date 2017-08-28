@@ -1,0 +1,51 @@
+body{
+  background-color: #DEDED5;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1{
+  font-size: 45px;
+  margin-top: 2px;
+}
+
+hr{
+  border-color:#000;
+}
+
+p{
+  margin: 2px;
+}
+
+ul{
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.personal{
+  font-size: 10px;
+  margin-bottom: 2px;
+}
+
+.employer{
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 2px;
+}
+
+.location{
+  font-style: italic;
+}
+
+#manila{
+  background-image:url("manila envelope.png");
+  background-size:cover;
+  padding-top: 120px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+#face{
+  /* display: inline; */
+  width: 200px;
+  float: right;
+}
